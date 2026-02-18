@@ -1,1 +1,3 @@
 # Berkeley-11.1
+
+This analysis examined over 426,000 used-vehicle listings to identify the primary factors that influence used-car prices. Multiple predictive models were developed and evaluated to understand how vehicle characteristics affect resale value. The analysis found that the most important factors influencing vehicle price are vehicle age, mileage, manufacturer and model, vehicle condition, and vehicle type (such as SUV, truck, or sedan). Using these findings, dealerships can optimize inventory acquisition, improve pricing strategies, and maximize profitability. The Random Forest regression model provided the most accurate predictions, confirming that used car prices are influenced by a combination of vehicle attributes rather than a single factor.
